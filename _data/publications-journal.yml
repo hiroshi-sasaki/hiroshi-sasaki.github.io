@@ -1,0 +1,52 @@
+- title: "Evaluating Energy-Efficiency of DRAM Channel Interleaving Schemes for Multithreaded Programs."
+  authors: "Satoshi Imamura, Yuichiro Yasui, Koji Inoue, Takatsugu Ono, *Hiroshi Sasaki*, Katsuki Fujisawa."
+  venue: "IEICE Transactions on Information and Systems, Vol.E101-D, No.9"
+  pages: "2247--2257"
+  month: Sep.
+  year: 2018
+
+- title: "Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors."
+  authors: "Teruo Tanimoto, Takatsugu Ono, Koji Inoue, *Hiroshi Sasaki*."
+  venue: "IEEE Computer Architecture Letters (CAL), Vol.16, Issue 2"
+  pages: "111--114"
+  month: Jul-Dec
+  year: 2017
+  misc: "published in Mar 2017"
+
+- title: "Heavy Tails in Program Structure."
+  authors: "*Hiroshi Sasaki*, Fang-Hsiang Su, Teruo Tanimoto, Simha Sethumadhavan."
+  venue: "IEEE Computer Architecture Letters (CAL), Vol.16, Issue 1"
+  pages: "34--37"
+  month: Jan-Jun
+  year: 2017
+  misc: "published in May 2016"
+
+- title: "Mitigating Power Contention: A Scheduling Based Approach."
+  authors: "*Hiroshi Sasaki*, Alper Buyuktosunoglu, Augusto Vega, Pradip Bose."
+  venue: "IEEE Computer Architecture Letters (CAL), Vol.16, Issue 1"
+  pages: "60--63"
+  month: Jan-Jun
+  year: 2017
+  misc: "published in May 2016"
+
+- title: "A Runtime Optimization Selection Framework to Realize Energy Efficient Networks-on-Chip."
+  authors: "Yuan He, Masaaki Kondo, Takashi Nakada, *Hiroshi Sasaki*, Shinobu Miwa, Hiroshi Nakamura."
+  venue: "IEICE Transactions on Information and Systems, Vol.E99.D, No.12"
+  pages: "2881--2890"
+  month: Dec.
+  year: 2016
+
+- title: "Adaptive Data Compression on 3D Network-on-Chips."
+  authors: "Yuan He, Hiroki Matsutani, *Hiroshi Sasaki*, Hiroshi Nakamura."
+  venue: "IPSJ Transactions on Advanced Computing Systems, Vol.5, No.1"
+  pages: "80--87"
+  month: Jan.
+  year: 2012
+
+- title: "Energy-Efficient Dynamic Instruction Scheduling Logic through Instruction Grouping."
+  authors: "*Hiroshi Sasaki*, Masaaki Kondo, Hiroshi Nakamura."
+  venue: "IEEE Transactions on VLSI (TVLSI), Vol.17 Issue 6"
+  pages: "848--852"
+  month: June
+  year: 2009
+  misc: "Transactions Briefs"

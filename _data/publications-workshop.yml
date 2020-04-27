@@ -1,0 +1,68 @@
+- title: "Power-Efficient Breadth-First Search with DRAM Row Buffer Locality-Aware Address Mapping."
+  authors: "Satoshi Imamura, Yuichiro Yasui, Koji Inoue, Takatsugu Ono, *Hiroshi Sasaki*, Katsuki Fujisawa."
+  venue: "High Performance Graph Data Management and Processing Workshop 2016 (HPGDMP)"
+  month: Nov.
+  year: 2016
+  misc: "held in conjunction with SC"
+
+- title: "An Empirical Study on the NoC Architecture Based on Bidirectional Ring and Mesh Topologies."
+  authors: "Jie Yin, Ye Liu, Shinpei Kato, *Hiroshi Sasaki*, Hiroaki Takada."
+  venue: "2016 Workshop on Multicore and Rack-scale Systems (MaRS)"
+  month: Apr.
+  year: 2016
+  misc: "held in conjunction with EuroSys"
+
+- title: "Predict-More Router: A Low Latency NoC Router with More Route Predictions."
+  authors: "Yuan He, *Hiroshi Sasaki*, Shinobu Miwa, Hiroshi Nakamura."
+  venue: "In Proceedings of the 2013 IEEE International Parallel and Distributed Processing Workshops and Phd Forum (IPDPSW)"
+  month: May
+  year: 2013
+  misc: "presented at Communication Architecture for Scalable Systems (CASS)"
+
+- title: "Power and Performance Analysis of GPU-Accelerated Systems."
+  authors: "Yuki Abe, *Hiroshi Sasaki*, Martin Peres, Koji Inoue, Kazuaki Murakami, Shinpei Kato."
+  venue: "2012 Workshop on Power-Aware Computing and Systems (HotPower)"
+  month: Oct.
+  year: 2012
+  misc: "held in conjunction with OSDI"
+
+- title: "Optimizing Power-Performance Trade-Off for Parallel Applications through Dynamic Core-Count and Frequency Scaling."
+  authors: "Satoshi Imamura, *Hiroshi Sasaki*, Naoto Fukumoto, Koji Inoue, Kazuaki Murakami."
+  venue: "2nd Workshop on Runtime Environments/Systems, Layering, Virtualized Environments (RESoLVE)"
+  month: Mar.
+  year: 2012
+  misc: "held in conjunction with ASPLOS"
+
+- title: "Efficient Barrier Synchronization for 2D Meshed NoC-Based Many-Core Processors."
+  authors: "Lovic Gauthier, Farhad Mehdipour, Koji Inoue, Shinya Ueno, *Hiroshi Sasaki*."
+  venue: "17th Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI)"
+  month: Mar.
+  year: 2012
+
+- title: "Power-Performance Modeling of Heterogeneous Cluster-Based Web Servers."
+  authors: "*Hiroshi Sasaki*, Takatsugu Oya, Masaaki Kondo, Hiroshi Nakamura."
+  venue: "In Proceedings of the 2009 20th IEEE/ACM International Conference on Grid Computing (Grid)"
+  month: Oct.
+  year: 2009
+  misc: "presented at Energy Efficient Grids, Clouds and Clusters Workshop (E2GC2)"
+
+- title: "Compiler Directed Fine Grain Power Gating for Leakage Power Reduction in Microprocessor Functional Units."
+  authors: "Toshiya Komoda, *Hiroshi Sasaki*, Masaaki Kondo, Hiroshi Nakamura."
+  venue: "Workshop on Optimizations for DSP and Embedded Systems (ODES)"
+  month: Mar.
+  year: 2009
+  misc: "held in conjunction with CGO"
+
+- title: "Improving Fairness, Throughput and Energy-Efficiency on a Chip Multiprocessor through DVFS."
+  authors: "Masaaki Kondo, *Hiroshi Sasaki*, Hiroshi Nakamura."
+  venue: "Workshop on Design, Architecture and Simulation of Chip Multi-Processors (dasCMP)"
+  month: Dec.
+  year: 2006
+  misc: "held in conjunction with MICRO---Also in ACM SIGARCH Computer Architecture News, Vol.35, Issue 1, Mar. 2007."
+
+- title: "Dynamic Instruction Cascading on GALS Microprocessor."
+  authors: "*Hiroshi Sasaki*, Masaaki Kondo, Hiroshi Nakamura."
+  venue: "International Workshop on Power and Timing Modeling, Optimization and Simulation (PATMOS)"
+  month: Sep.
+  year: 2005
+
