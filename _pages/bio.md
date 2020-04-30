@@ -16,7 +16,7 @@ permalink: /bio
 - 2013年7月 -- 2014年3月 IBM T.J. ワトソン研究所 訪問研究員
 - 2014年4月 -- 2016年3月 コロンビア大学 コンピュータサイエンス専攻 訪問研究員  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（日本学術振興会 海外特別研究員）
-- 2016年4月 -- 2020年3月 コロンビア大学 コンピュータサイエンス専攻 研究員
+- 2016年4月 -- 2020年3月 コロンビア大学 コンピュータサイエンス専攻 研究員（[旧ウェブサイト](https://sites.google.com/site/hrshssk/)）
 - 2019年4月 -- 現在 株式会社ティアフォー 技術コンサルタント
 - 2020年4月 -- 現在 東京工業大学 工学院 情報通信系 准教授
 
