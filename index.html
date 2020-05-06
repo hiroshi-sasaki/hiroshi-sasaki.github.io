@@ -21,7 +21,7 @@ title: トップ
 
   <h2><i class="fa fa-bookmark"></i> ニュース</h2>
   <ul class="top">
-    <span class="bold">2020-04-01</span>：東京工業大学 工学院 情報通信系に准教授として着任しました。
+    <span class="bold">2020-04-01 &raquo;</span> 東京工業大学 工学院 情報通信系に准教授として着任しました。
   </ul>
 
   <h2><i class="fa fa-bookmark"></i> 研究テーマ</h2>
@@ -50,4 +50,12 @@ title: トップ
     <a href="/files/pdfs/sasaki-pact12.pdf">[pdf]</a>
     </li>
   </ul>
+
+  <h2><i class="fa fa-bookmark"></i> ブログ</h2>
+  <ul id="blog-posts" class="top">
+    {% for post in site.posts %}
+      <span class="bold">{{ post.date | date: "%Y-%m-%d" }} &raquo;</span> <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endfor %}
+  </ul>
+
 </div>
