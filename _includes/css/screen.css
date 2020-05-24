@@ -90,6 +90,10 @@ h3 {
   margin-bottom: -0.2em;
 }
 
+h5 {
+  margin-bottom: 0.1em;
+}
+
 ul {
   margin: 1em 0;
   list-style: disc;
@@ -324,7 +328,15 @@ i.fa-hn {
 
 .footnotes {
   font-size: 14px;
-  font-style: italic;
+  /* font-style: italic; */
+}
+
+a.footnote {
+  font-size: 12px;
+}
+
+.footnotes li {
+  margin: -12px 0px 0px 0px;
 }
 
 .icon-overlay {
@@ -343,6 +355,8 @@ i.fa-hn {
 }
 
 sup {
-  vertical-align: super;
+  vertical-align: top;
   font-size: smaller;
+  position: relative;
+  top: -0.5em;
 }
