@@ -65,7 +65,7 @@ RowHammer の脆弱性は新しい DRAM ほどより深刻であるというこ�
 さらにもう一本仮想メモリに関する論文ですが、こちらは少し毛色が違います。この論文の目的はページフォルトのオーバーヘッドを減らすことです。近年の高性能なレイテンシの短い SSD などを補助記憶として使用すると、ページフォルトによるコンテキストスイッチや（そのために生じる分岐予測器やキャッシュの汚染や）カーネルコードのオーバーヘッドが無視できなくなります。そこでページフォルトが起きたときに例外を投げて OS にまかせるのではなく、ハードウェアが直接 I/O コマンドを発行してストレージからページを取ってくるハードウェアと OS サポートを提案しています。
 
 ##### まとめ
-ISCA に関しては色々とツイートしましたが [このツリー](https://twitter.com/hrshssk/status/1268724992042127362) が大体網羅している感じです（ツイートが 10 個くらいあるはずですが一部しか展開されないことがあるのでその場合は再読み込みしてください）。個人的にはこの下に埋め込んである Luiz André Barroso 博士による Eckert-Mauchly Award のレクチャーが最高だったので、是非多くの方々に見てもらいたいです。
+ISCA に関しては色々とツイートしましたが [このツリー](https://twitter.com/hrshssk/status/1268878058217304064) が大体網羅している感じです。個人的にはこの下に埋め込んである Luiz André Barroso 博士による Eckert-Mauchly Award のレクチャーが最高だったので、是非多くの方々に見てもらいたいです。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lv_eZX99lUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
