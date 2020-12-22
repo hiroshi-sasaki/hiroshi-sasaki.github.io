@@ -50,6 +50,15 @@ ul.blog li {
   margin-bottom: 0.2em;
 }
 
+ol.blog {
+  margin-top: -0.3em;
+}
+
+ol.blog li {
+  margin-left: 0em;
+  margin-bottom: 0.2em;
+}
+
 p {
   margin-top: 0px;
   margin-bottom: 0px;
