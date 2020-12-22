@@ -43,7 +43,7 @@ categories:
 <!-- CSRankings では Design Automation や Embedded & Real-Time Systems などに含まれる研究内容が多いと思います。-->
 
 ###### [本村・劉研究室](http://www.artic.iir.titech.ac.jp/wp/) [1]
-教員は [本村教授](http://www.artic.iir.titech.ac.jp/wp/people/prof-motomura/)、[劉准教授](http://www.artic.iir.titech.ac.jp/wp/people/prof-yu/)、[Thiem Van Chu 助教](https://sites.google.com/site/thiemcv/)。[科学技術創成研究院（IIR）](https://www.iir.titech.ac.jp/)に 2019 年に発足した新しい [研究ユニット](https://www.iir.titech.ac.jp/organization/constitution/unit/) AI コンピューティング研究ユニット（通称 ArtIC）です。この中では唯一すずかけ台キャンパスに研究室があります。ユニット名が示すとおり次世代 AI 処理をターゲットにした計算機システムの研究をしています。本村先生が企業出身なことも関係していると思いますがアクセラレータのアーキテクチャの提案から実チップの製造までを手がける点が特徴的です。大きなプロジェクトを多数抱えており「ビッグラボ」と言って良いと思います。
+教員は [本村教授](http://www.artic.iir.titech.ac.jp/wp/people/prof-motomura/)、[劉准教授](http://www.artic.iir.titech.ac.jp/wp/people/prof-yu/)、[Thiem Van Chu 助教](https://sites.google.com/site/thiemcv/)。[科学技術創成研究院（IIR）](https://www.iir.titech.ac.jp/)に 2019 年に発足した新しい [研究ユニット](https://www.iir.titech.ac.jp/organization/constitution/unit/) AI コンピューティング研究ユニット（通称 ArtIC）です。この中では唯一すずかけ台キャンパスに研究室があります。ユニット名が示すとおり次世代 AI 処理をターゲットにした計算機システムの研究をしています。本村先生が企業出身なことも関係していると思いますがアクセラレータのアーキテクチャの提案だけでなく実チップの設計まで手がける点が特徴的です。教員も多く大きなプロジェクトを多数抱えており「ビッグラボ」と言って良いと思います。
 
 ###### まとめ
 各研究室の簡単な紹介をしてみました。ざっくりと、C/C++ でハードウェアを記述することに興味があれば一色研、チップの設計技術そのものに興味があれば高橋研、FPGA で動く実用的なものが作りたかったら中原研、組み込み技術に興味があったら原研、次世代の計算機アーキテクチャ技術に興味があったら本村・劉研、という感じでしょうか。ちなみに情報通信系の中の位置付けでいうと佐々木の研究室は汎用の計算機アーキテクチャ研究に軸足を置いていることが特徴だと思います。一色研、原研、本村・劉研とは興味がオーバーラップする点があります。
