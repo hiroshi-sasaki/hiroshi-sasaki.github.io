@@ -16,6 +16,18 @@ mycode {
   font-size: 13px;
 }
 
+#mycode {
+  padding: 2px;
+  padding-left: 8px;
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #e8e8e8;
+  font-family: Menlo,Consolas,"Courier New",monospace;
+  font-size: 13px;
+  margin-top: -0.3em;
+  margin-bottom: 14px;
+}
+
 ul {
   font-size: 14px;
 }
