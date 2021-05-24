@@ -10,20 +10,20 @@ categories:
 
 ###### その前に
 コンピュータサイエンスの Systems（ここでは計算機システム、と訳します）分野について俯瞰してみます。CSRankings では計算機システム分野は 12 の分野から成るものとしています：
-<ol class="blog">
-  <li>Computer architecture（計算機アーキテクチャ）</li>
-  <li>Computer networks（コンピュータネットワーク）</li>
-  <li>Computer security（コンピュータセキュリティ）</li>
-  <li>Databases（データベース）</li>
-  <li>Design automation（設計自動化）</li>
-  <li>Embedded & real-time systems（組み込み・リアルタイムシステム）</li>
-  <li>High-performance computing（高性能計算）</li>
-  <li>Mobile computing（モバイルコンピューティング）</li>
-  <li>Measurement & perf. analysis（性能測定・解析）</li>
-  <li>Operating systems（オペレーティングシステム）</li>
-  <li>Programming languages（プログラミング言語）</li>
-  <li>Software engineering（ソフトウェア工学）</li>
-</ol>
+
+1. Computer architecture（計算機アーキテクチャ）
+2. Computer networks（コンピュータネットワーク）
+3. Computer security（コンピュータセキュリティ）
+4. Databases（データベース）
+5. Design automation（設計自動化）
+6. Embedded & real-time systems（組み込み・リアルタイムシステム）
+7. High-performance computing（高性能計算）
+8. Mobile computing（モバイルコンピューティング）
+9. Measurement & perf. analysis（性能測定・解析）
+10. Operating systems（オペレーティングシステム）
+11. Programming languages（プログラミング言語）
+12. Software engineering（ソフトウェア工学）
+
 ハードウェアにあたるものが 1 でソフトウェアにあたるものが 10、11、12。現実的なシステムを考えると必要となる技術が 2、3、4。応用にあたるものが 6、7、8。あと 5 はやや 6 と関連が深い設計自動化という手法全般、9 は様々な文脈で行なわれる基礎的な解析全般を含みます。
 
 2020 年 12 月現在、情報通信系で主に扱っている分野は 1、2、3、5、6、7、8、9 あたりで[^4]、下記に紹介する研究室が該当するのは 1、3、5、6、7 だと思います[^5]。研究室名の横に番号を独断で添えておきます。基本的にはハードウェア寄りで、かつ 5 と 6 に含まれる研究を主とする研究室が多そうです。あいうえお順でいきます。
