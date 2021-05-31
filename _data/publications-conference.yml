@@ -1,3 +1,10 @@
+- title: "RAPLET: Demystifying Publish/Subscribe Latency for ROS Applications."
+  authors: "Keisuke Nishimura, Takahiro Ishikawa, *Hiroshi Sasaki*, Shinpei Kato."
+  venue: "In Proceedings of the 27th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)"
+  month: Aug.
+  year: 2021 (to appear)
+  rate:
+
 - title: "Practical Byte-Granular Memory Blacklisting using Califorms."
   authors: "*Hiroshi Sasaki*, Miguel A. Arroyo, M. Tarek Ibn Ziad, Koustubha Bhat, Kanad Sinha, Simha Sethumadhavan."
   venue: "In Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO)"
