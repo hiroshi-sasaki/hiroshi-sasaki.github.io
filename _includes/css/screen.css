@@ -272,7 +272,7 @@ nav h1, nav h2 {
   color: {{ site.data.theme.highlight_color }};
 }
 
-#logo, #gravatar {
+#photo, #gravatar {
   margin-bottom: 25px;
 }
 

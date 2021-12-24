@@ -9,7 +9,7 @@
 
 /* Smaller than standard 960 (devices and browsers) */
 @media only screen and (max-width: 959px) {
-	#logo {
+	#photo {
 		font-size: 21px;
 		margin-bottom: 15px; }
 	nav .button {
@@ -34,7 +34,7 @@
 	header h1 { font-size: 34px; line-height: 37px; }
 	nav { position: relative; }
 	nav ul,
-	#logo { text-align: left; }
+	#photo { text-align: left; }
 	.sidebar {
 		display: none;
 	}
