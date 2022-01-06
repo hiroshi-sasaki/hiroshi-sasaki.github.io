@@ -33,12 +33,14 @@ ul {
 }
 
 ul.top {
+  margin-left: 1.8em;
   margin-top: -0.3em;
 }
 
 ul.top li {
-  margin-left: 1.5em;
+  margin-left: 0em;
   margin-bottom: 0.5em;
+  list-style-type: none;
 }
 
 p {
@@ -179,6 +181,17 @@ nav h1, nav h2 {
 }
 
 #link {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-bottom: dotted #ddd;
+  border-width: 1px 0;
+  padding-bottom: 15px;
+  text-align: right;
+}
+
+#addr {
+  font-size: 13px;
+  line-height: 1.5em;
   margin-top: 10px;
   margin-bottom: 15px;
   border-bottom: dotted #ddd;
