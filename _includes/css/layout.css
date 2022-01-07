@@ -40,6 +40,18 @@
 	#photo {
       display: none;
     }
+    #name {
+        text-align: left;
+    }
+	#link {
+		text-align: left;
+	}
+    #addr {
+        text-align: left;
+    }
+    #social {
+        text-align: left;
+    }
 	.sidebar {
 		display: flex;
         flex-direction: column-reverse;
