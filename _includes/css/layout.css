@@ -27,6 +27,9 @@
 	#bio {
 		font-size: 14px;
 	}
+    #email {
+        font-size: 13px;
+    }
     #addr {
         font-size: 11px;
     }
@@ -46,6 +49,9 @@
 	#link {
 		text-align: left;
 	}
+    #email {
+        text-align: left;
+    }
     #addr {
         text-align: left;
     }
