@@ -32,6 +32,11 @@ ul {
   font-size: 14px;
 }
 
+ul li {
+  margin-bottom: 0.5em;
+  list-style-type: none;
+}
+
 ul.top {
   margin-left: 1.8em;
   margin-top: -0.3em;
