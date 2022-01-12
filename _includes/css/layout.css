@@ -33,6 +33,9 @@
     #addr {
         font-size: 11px;
     }
+    td {
+        min-width: 70px;
+    }
 }
 
 /* All Mobile Sizes (devices and browser) */
@@ -67,6 +70,9 @@
 		border: 0px;
 		padding-left: 0px;
 	}
+    td {
+        min-width: 70px;
+    }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
