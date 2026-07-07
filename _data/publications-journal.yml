@@ -1,3 +1,11 @@
+- title: "Hardware-Accelerated Parallel Wrong-Path Execution for Spectre Gadget Detection."
+  authors: "Fangzheng Lin, Zeyu Gao, Yanru Lin, Yangyu Chen, *Hiroshi Sasaki*."
+  venue: "IEEE Computer Architecture Letters (CAL)"
+  pages: "xx--xx"
+  month:
+  year: 2026
+  misc: "accepted for publication"
+
 - title: "Evaluating Energy-Efficiency of DRAM Channel Interleaving Schemes for Multithreaded Programs."
   authors: "Satoshi Imamura, Yuichiro Yasui, Koji Inoue, Takatsugu Ono, *Hiroshi Sasaki*, Katsuki Fujisawa."
   venue: "IEICE Transactions on Information and Systems, Vol.E101-D, No.9"

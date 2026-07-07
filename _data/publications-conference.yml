@@ -2,8 +2,8 @@
   authors: "Fangzheng Lin, Zhongfa Wang, *Hiroshi Sasaki*."
   venue: "In Proceedings of the 2025 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)"
   month: Mar.
-  year: 2025 (to appear)
-  rate: 
+  year: 2025
+  rate: "312/1061=29.4%"
 
 - title: "RAPLET: Demystifying Publish/Subscribe Latency for ROS Applications."
   authors: "Keisuke Nishimura, Takahiro Ishikawa, *Hiroshi Sasaki*, Shinpei Kato."
