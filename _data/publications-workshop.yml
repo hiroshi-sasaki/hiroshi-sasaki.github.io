@@ -58,7 +58,7 @@
   venue: "Workshop on Design, Architecture and Simulation of Chip Multi-Processors (dasCMP)"
   month: Dec.
   year: 2006
-  misc: "held in conjunction with MICRO---Also in ACM SIGARCH Computer Architecture News, Vol.35, Issue 1, Mar. 2007."
+  misc: "held in conjunction with MICRO---Also in ACM SIGARCH Computer Architecture News, Vol.35, Issue 1, Mar. 2007"
 
 - title: "Dynamic Instruction Cascading on GALS Microprocessor."
   authors: "*Hiroshi Sasaki*, Masaaki Kondo, Hiroshi Nakamura."

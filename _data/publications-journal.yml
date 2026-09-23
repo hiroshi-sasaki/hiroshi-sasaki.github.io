@@ -1,10 +1,26 @@
-- title: "Hardware-Accelerated Parallel Wrong-Path Execution for Spectre Gadget Detection."
-  authors: "Fangzheng Lin, Zeyu Gao, Yanru Lin, Yangyu Chen, *Hiroshi Sasaki*."
+- title: "Exploiting Decompression Latency for Covert Channels in Inter-Line-Compressed LLCs."
+  authors: "David K. Oh, *Hiroshi Sasaki*."
   venue: "IEEE Computer Architecture Letters (CAL)"
   pages: "xx--xx"
   month:
-  year: 2026
-  misc: "accepted for publication"
+  year: "2026 (accepted for publication)"
+  misc:
+
+- title: "Improving Indirect Branch Prediction in Interpreters via Hardware/Software Co-Design."
+  authors: "Linfeng Zheng, *Hiroshi Sasaki*."
+  venue: "IEEE Computer Architecture Letters (CAL)"
+  pages: "xx--xx"
+  month:
+  year: "2026 (accepted for publication)"
+  misc:
+
+- title: "Hardware-Accelerated Parallel Wrong-Path Execution for Spectre Gadget Detection."
+  authors: "Fangzheng Lin, Zeyu Gao, Yanru Lin, Yangyu Chen, *Hiroshi Sasaki*."
+  venue: "IEEE Computer Architecture Letters (CAL), Vol.25, Issue 1"
+  pages: "239--242"
+  month: June
+  year: "2026 (published in June 2026)"
+  misc:
 
 - title: "Evaluating Energy-Efficiency of DRAM Channel Interleaving Schemes for Multithreaded Programs."
   authors: "Satoshi Imamura, Yuichiro Yasui, Koji Inoue, Takatsugu Ono, *Hiroshi Sasaki*, Katsuki Fujisawa."
@@ -18,24 +34,24 @@
   venue: "IEEE Computer Architecture Letters (CAL), Vol.16, Issue 2"
   pages: "111--114"
   month: Jul-Dec
-  year: 2017
-  misc: "published in Mar 2017"
+  year: "2017 (published in Mar 2017)"
+  misc:
 
 - title: "Heavy Tails in Program Structure."
   authors: "*Hiroshi Sasaki*, Fang-Hsiang Su, Teruo Tanimoto, Simha Sethumadhavan."
   venue: "IEEE Computer Architecture Letters (CAL), Vol.16, Issue 1"
   pages: "34--37"
   month: Jan-Jun
-  year: 2017
-  misc: "published in May 2016"
+  year: "2017 (published in May 2016)"
+  misc:
 
 - title: "Mitigating Power Contention: A Scheduling Based Approach."
   authors: "*Hiroshi Sasaki*, Alper Buyuktosunoglu, Augusto Vega, Pradip Bose."
   venue: "IEEE Computer Architecture Letters (CAL), Vol.16, Issue 1"
   pages: "60--63"
   month: Jan-Jun
-  year: 2017
-  misc: "published in May 2016"
+  year: "2017 (published in May 2016)"
+  misc:
 
 - title: "A Runtime Optimization Selection Framework to Realize Energy Efficient Networks-on-Chip."
   authors: "Yuan He, Masaaki Kondo, Takashi Nakada, *Hiroshi Sasaki*, Shinobu Miwa, Hiroshi Nakamura."
